@@ -1,0 +1,22 @@
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.dll.config
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.dll
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.pdb
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.csprojResolveAssemblyReference.cache
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.dll
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.pdb
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\Newtonsoft.Json.dll
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\Newtonsoft.Json.xml
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.dll
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.xml
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.xmlworker.dll
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.dll.config
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.dll
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.pdb
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.dll
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.xmlworker.dll
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\Newtonsoft.Json.dll
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.xml
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\Newtonsoft.Json.xml
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.dll
+D:\ASP.NET\ASP.NET BITM\Mid Project\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.pdb
